@@ -1,0 +1,55 @@
+[
+{
+"ip": "192.168.99.3",
+"name": "d24",
+"number": 1,
+"adrx": 16492,
+"adtx": 16492,
+"x": 11.40,
+"y": 5.24,
+"z": 2.63,
+"role": "Master",
+"masternumber": 0,
+"lag": 2000
+},
+{
+"ip": "192.168.99.4",
+"name": "d1bb",
+"number": 2,
+"adrx": 16492,
+"adtx": 16492,
+"x": 11.38,
+"y": 0.47,
+"z": 2.84,
+"role": "Slave",
+"masternumber": 1,
+"lag": 2000
+},
+{
+"ip": "192.168.99.5",
+"name": "d1b6",
+"number": 3,
+"adrx": 16492,
+"adtx": 16492,
+"x": 0.48,
+"y": 0.47,
+"z": 2.67,
+"role": "Slave",
+"masternumber": 1,
+"lag": 3000
+},
+{
+"ip": "192.168.99.6",
+"name": "d2f",
+"number": 4,
+"adrx": 16492,
+"adtx": 16492,
+"x": 0.47,
+"y": 5.24,
+"z": 2.62,
+"role": "Slave",
+"masternumber": 1,
+"lag": 4000
+}
+]
+
